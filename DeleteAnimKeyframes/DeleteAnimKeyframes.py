@@ -1,12 +1,3 @@
-bl_info = {
-    "name": "处理位移关键帧",
-    "description": "此操作会删除X和Z的位移关键帧",
-    "author": "大冰",
-    "version": (1, 0),
-    "blender": (2, 80, 0),
-    "category": "Animation"
-}
-
 import bpy
 from bpy.types import Operator, Panel
 
