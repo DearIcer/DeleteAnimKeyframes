@@ -1,2 +1,3 @@
 # DeleteAnimKeyframes
-Blender删除X平移和Z平移关键帧,将脚本复制，然后到Blender的脚本窗口运行，侧边栏就会多出来一个菜单。
+Blender删除X平移和Z平移关键帧
+将脚本复制，然后到Blender的脚本窗口运行，侧边栏就会多出来一个菜单。
