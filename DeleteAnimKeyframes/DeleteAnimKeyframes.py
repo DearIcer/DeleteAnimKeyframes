@@ -5,8 +5,8 @@ from bpy.types import Operator, Panel
 class DeleteAnimKeyframesOperator(Operator):
     """Delete Anim Keyframes Operator"""
     bl_idname = "anim.delete_anim_keyframes"
-    bl_label = "Delete Anim Keyframes"
-    bl_description = "Delete translate Z and translate X keyframes from selected joints and their descendants."
+    bl_label = "删除动画位移关键帧"
+    bl_description = "这个操作会删除X平移和Z平移的关键帧，点我之前三思！."
 
     @classmethod
     def poll(cls, context):
