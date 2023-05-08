@@ -1,0 +1,2 @@
+# DeleteAnimKeyframes
+Blender删除X平移和Z平移关键帧
